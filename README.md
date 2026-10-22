@@ -36,10 +36,11 @@ You start in tight, claustrophobic industrial zones fighting off hordes with twi
 * **In-Wave Mastery Trials:** Picking up a weapon triggers an optional high-stakes trial (*"Slay 30 crawlers in 20 seconds"*). Pull it off, and you earn a permanent mod socket. Fail, and you just burned your ammo for nothing.
 * **Secret Arcade Portals:** Discover hidden exits that throw you into standalone retro minigames—like a high-speed pixelated motorcycle highway run mowing down zombies for high-tier loot, or piloting an industrial mech for an upcoming boss round.
 
+#### More to come, to think of in the future... (TBD)
 ---
 
 ### 🛠️ Technical Specifications
 * **Engine:** Godot 4.x
-* **Language:** GDScript (Statically typed with strict class typing)
+* **Language:** GDScript
 * **Architecture:** Composition-over-inheritance, Event Bus signal routing, and Data-Driven `Resource` configuration.
 * **License:** MIT
