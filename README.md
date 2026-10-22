@@ -1,4 +1,4 @@
-# 🕹️ OMNI-ARCADE: Project Outbreak
+# 🕹️ OMNI-ARCADE: Project Outbreak (A.I HELPING THIS RUSTY SOFTWARE DEVELOPER!)
 > **The bastard child of *Dead Ops Arcade*, *Halo's* systemic sandbox, and *Half-Life's* physics playground.**  
 > Built with modern modular software architecture in Godot 4.
 
